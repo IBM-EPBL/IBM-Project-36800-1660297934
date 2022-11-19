@@ -9,7 +9,5 @@ Kalyani Prabha S
 
 # Team Members
 Bharath R 
-
 Dinesh B
-
 Dinesh S
