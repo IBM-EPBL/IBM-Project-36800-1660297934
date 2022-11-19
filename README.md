@@ -1,13 +1,15 @@
 # IBM-Project-36800-1660297934
 Gas Leakage monitoring &amp; Alerting system for Industries
 
-Faculty Mentor
+# Faculty Mentor
 Dr. Thulasimani Lakshmanan
 
-Team Leader
+# Team Leader
 Kalyani Prabha S
 
-Team Members
+# Team Members
 Bharath R 
+
 Dinesh B
+
 Dinesh S
